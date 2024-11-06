@@ -1,9 +1,7 @@
 # CS 2013: Intro to Programming 3
-
 Welcome to the **CS 2013: Intro to Programming 3** repository! This repository contains assignments, projects, and resources created for the **CS 2013** course, which focuses on fundamental programming concepts in Java.
 
-## Overview
-
+### Overview
 This course introduces essential programming concepts and problem-solving techniques using Java. Topics covered include:
 - Object-Oriented Programming (OOP) principles
 - Data structures (arrays, lists, stacks, queues)
@@ -12,12 +10,10 @@ This course introduces essential programming concepts and problem-solving techni
 - Basic GUI development with Java Swing
 
 ## Technologies
-
 The code in this repository is primarily written in:
 - **Java** for programming fundamentals and OOP concepts
 
 ## Assignments
-
 Some key assignments and exercises covered in this course:
 - **OOP Fundamentals**: Creating classes, objects, inheritance, and polymorphism
 - **Data Structures**: Implementing and utilizing arrays, lists, and stacks
@@ -25,7 +21,6 @@ Some key assignments and exercises covered in this course:
 - **Java Swing Applications**: Developing simple GUIs for hands-on practice
 
 ## Setup
-
 To clone and run this project locally:
 1. Clone the repository:
    ```bash
